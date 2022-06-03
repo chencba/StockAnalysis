@@ -1,0 +1,41 @@
+STOCKS ANALYSIS PROGRAM
+USER MANUAL
+ 
+PART 1 
+HOME SCREEN
+When you start to run the program, the program will start and show the USER MANUAL SCREEN of the software, as shown in Figure-1.1.
+Figure-1.1
+On the menu bar, there are three choices, User Manual, Stock Analyzer, and Stock Predictor. Click on one of them, then you can switch to new screen.
+−Click User Manual will switch to this document which shows you the instructions on how to use this software.
+−Click Stock Analyzer will switch to the STOCK ANALYZER SCREEN which allows you to make basic analysis on the stock you choose.
+−Click Stock Predictor will switch to the STOCK PREDICTOR SCREEN which allows you to predict the close price of the stock you choose.
+
+PART 2 
+STOCK ANALYZER
+If you left click on the Stock Analyzer, the STOCK ANALYZER SCREEN presented in Figure-2.1 will appear.
+Figure-2.1
+In this screen, you can input the ticker symbol of a stock you wish to analyze, and input the historical start and end date. After you input everything, click on Search button.
+−If you input a wrong ticker symbol which is not exists, a message will pop up as presented in Figure-2.2 saying “No such ticker!”.
+−If you enter the wrong start date and end date, for example a date earlier than the stock's listing time, or a future date, then a message will pop up as presented in Figure-2.3 saying “Start date and end date must be between Jan 1, 2000 - today. Please input again.”.
+Figure-2.2
+Figure-2.3
+If you see one of the messages in Figure-3.2, Figure-3.3, and Figure-3.4, you need to input the correct information accordingly.
+According to the information you input, analyzer will present the descriptive analytics of the trading price for the company you select, as shown in Figure-2.4. 
+Figure-2.4
+The result screen will automatically present the charts of Close Price, MA (MA5, MA10, MA20), MACD, and Volume as shown in Figure-2.5. 
+Figure-2.5
+
+PART 3 
+STOCK PREDICTOR
+If you left click on the Stock Predictor, the STOCK PREDICTOR SCREEN presented in Figure-3.1 will appear. 
+Figure-3.1
+In this screen, you can input the ticker symbol of a stock you wish to predict, and input the historical start and end date as base date for acquiring training data, and a date of the stock price you wish to forecast. After you input everything, click on Pridict button.
+−If you input a wrong ticker symbol which is not exists, a message will pop up as presented in Figure-3.2 saying “No such ticker!”.
+−If you enter the wrong start date and end date, for example a date earlier than the stock's listing time, or a future date, then a message will pop up as presented in Figure-3.3 saying “Start date and end date must be between Jan 1, 2000 - today. Please input again.”.
+Figure-3.2
+Figure-3.3
+If you see one of the messages in Figure-3.2, and Figure-3.3, you need to input the correct information accordingly.
+According to the information you input, predictor will present the predicted price on the selected date, as shown in Figure-3.4.
+Figure-3.4
+
+

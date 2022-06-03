@@ -1,0 +1,200 @@
+{"ticker": "XOM", "company_name": "Exxon Mobil Corporation"}
+{"ticker": "CVX", "company_name": "Chevron Corporation"}
+{"ticker": "RDS-A", "company_name": "Royal Dutch Shell plc"}
+{"ticker": "RDS-B", "company_name": "Royal Dutch Shell plc"}
+{"ticker": "PTR", "company_name": "PetroChina Company Limited"}
+{"ticker": "TTE", "company_name": "TotalEnergies SE"}
+{"ticker": "COP", "company_name": "ConocoPhillips"}
+{"ticker": "BP", "company_name": "BP p.l.c."}
+{"ticker": "EQNR", "company_name": "Equinor ASA"}
+{"ticker": "ENB", "company_name": "Enbridge Inc."}
+{"ticker": "SNP", "company_name": "China Petroleum & Chemical Corporation"}
+{"ticker": "PBR", "company_name": "Petr\u00f3leo Brasileiro S.A. - Petrobras"}
+{"ticker": "PBR-A", "company_name": "Petr\u00f3leo Brasileiro S.A. - Petrobras"}
+{"ticker": "EOG", "company_name": "EOG Resources, Inc."}
+{"ticker": "CNQ", "company_name": "Canadian Natural Resources Limited"}
+{"ticker": "E", "company_name": "Eni S.p.A."}
+{"ticker": "EPD", "company_name": "Enterprise Products Partners L.P."}
+{"ticker": "TRP", "company_name": "TC Energy Corporation"}
+{"ticker": "PXD", "company_name": "Pioneer Natural Resources Company"}
+{"ticker": "SLB", "company_name": "Schlumberger Limited"}
+{"ticker": "MPC", "company_name": "Marathon Petroleum Corporation"}
+{"ticker": "SU", "company_name": "Suncor Energy Inc."}
+{"ticker": "KMI", "company_name": "Kinder Morgan, Inc."}
+{"ticker": "WMB", "company_name": "The Williams Companies, Inc."}
+{"ticker": "PSX", "company_name": "Phillips 66"}
+{"ticker": "MPLX", "company_name": "MPLX LP"}
+{"ticker": "DVN", "company_name": "Devon Energy Corporation"}
+{"ticker": "VLO", "company_name": "Valero Energy Corporation"}
+{"ticker": "OXY", "company_name": "Occidental Petroleum Corporation"}
+{"ticker": "EC", "company_name": "Ecopetrol S.A."}
+{"ticker": "OKE", "company_name": "ONEOK, Inc."}
+{"ticker": "CVE", "company_name": "Cenovus Energy Inc."}
+{"ticker": "HES", "company_name": "Hess Corporation"}
+{"ticker": "ET", "company_name": "Energy Transfer LP"}
+{"ticker": "BKR", "company_name": "Baker Hughes Company"}
+{"ticker": "HAL", "company_name": "Halliburton Company"}
+{"ticker": "FANG", "company_name": "Diamondback Energy, Inc."}
+{"ticker": "CTRA", "company_name": "Coterra Energy Inc."}
+{"ticker": "PBA", "company_name": "Pembina Pipeline Corporation"}
+{"ticker": "CLR", "company_name": "Continental Resources, Inc."}
+{"ticker": "MRO", "company_name": "Marathon Oil Corporation"}
+{"ticker": "TRGP", "company_name": "Targa Resources Corp."}
+{"ticker": "TS", "company_name": "Tenaris S.A."}
+{"ticker": "SSL", "company_name": "Sasol Limited"}
+{"ticker": "MMP", "company_name": "Magellan Midstream Partners, L.P."}
+{"ticker": "APA", "company_name": "APA Corporation"}
+{"ticker": "TPL", "company_name": "Texas Pacific Land Corporation"}
+{"ticker": "CCJ", "company_name": "Cameco Corporation"}
+{"ticker": "OVV", "company_name": "Ovintiv Inc."}
+{"ticker": "WES", "company_name": "Western Midstream Partners, LP"}
+{"ticker": "PSXP", "company_name": "Phillips 66 Partners LP"}
+{"ticker": "EQT", "company_name": "EQT Corporation"}
+{"ticker": "CSAN", "company_name": "Cosan S.A."}
+{"ticker": "CHK", "company_name": "Chesapeake Energy Corporation"}
+{"ticker": "PAA", "company_name": "Plains All American Pipeline, L.P."}
+{"ticker": "VVV", "company_name": "Valvoline Inc."}
+{"ticker": "SHI", "company_name": "Sinopec Shanghai Petrochemical Company Limited"}
+{"ticker": "WLL", "company_name": "Whiting Petroleum Corporation"}
+{"ticker": "DCP", "company_name": "DCP Midstream, LP"}
+{"ticker": "HFC", "company_name": "HollyFrontier Corporation"}
+{"ticker": "AR", "company_name": "Antero Resources Corporation"}
+{"ticker": "NFG", "company_name": "National Fuel Gas Company"}
+{"ticker": "RRC", "company_name": "Range Resources Corporation"}
+{"ticker": "PDCE", "company_name": "PDC Energy, Inc."}
+{"ticker": "MGY", "company_name": "Magnolia Oil & Gas Corporation"}
+{"ticker": "NOV", "company_name": "NOV Inc."}
+{"ticker": "AM", "company_name": "Antero Midstream Corporation"}
+{"ticker": "DTM", "company_name": "DT Midstream, Inc."}
+{"ticker": "MTDR", "company_name": "Matador Resources Company"}
+{"ticker": "SHLX", "company_name": "Shell Midstream Partners, L.P."}
+{"ticker": "ETRN", "company_name": "Equitrans Midstream Corporation"}
+{"ticker": "CHX", "company_name": "ChampionX Corporation"}
+{"ticker": "MUR", "company_name": "Murphy Oil Corporation"}
+{"ticker": "DEN", "company_name": "Denbury Inc."}
+{"ticker": "SM", "company_name": "SM Energy Company"}
+{"ticker": "CRC", "company_name": "California Resources Corporation"}
+{"ticker": "ENLC", "company_name": "EnLink Midstream, LLC"}
+{"ticker": "SUN", "company_name": "Sunoco LP"}
+{"ticker": "ENBL", "company_name": "Enable Midstream Partners, LP"}
+{"ticker": "CPE", "company_name": "Callon Petroleum Company"}
+{"ticker": "CNX", "company_name": "CNX Resources Corporation"}
+{"ticker": "NS-PB", "company_name": "NuStar Energy L.P."}
+{"ticker": "FTI", "company_name": "TechnipFMC plc"}
+{"ticker": "REGI", "company_name": "Renewable Energy Group, Inc."}
+{"ticker": "ERF", "company_name": "Enerplus Corporation"}
+{"ticker": "HP", "company_name": "Helmerich & Payne, Inc."}
+{"ticker": "OAS", "company_name": "Oasis Petroleum Inc."}
+{"ticker": "VAL", "company_name": "Valaris Limited"}
+{"ticker": "BSM", "company_name": "Black Stone Minerals, L.P."}
+{"ticker": "WHD", "company_name": "Cactus, Inc."}
+{"ticker": "WFRD", "company_name": "Weatherford International plc"}
+{"ticker": "PAGP", "company_name": "Plains GP Holdings, L.P."}
+{"ticker": "EURN", "company_name": "Euronav NV"}
+{"ticker": "CRK", "company_name": "Comstock Resources, Inc."}
+{"ticker": "DKL", "company_name": "Delek Logistics Partners, LP"}
+{"ticker": "HEP", "company_name": "Holly Energy Partners, L.P."}
+{"ticker": "LBRT", "company_name": "Liberty Oilfield Services Inc."}
+{"ticker": "VNOM", "company_name": "Viper Energy Partners LP"}
+{"ticker": "VET", "company_name": "Vermilion Energy Inc."}
+{"ticker": "INT", "company_name": "World Fuel Services Corporation"}
+{"ticker": "CEQP", "company_name": "Crestwood Equity Partners LP"}
+{"ticker": "CVI", "company_name": "CVR Energy, Inc."}
+{"ticker": "CLNE", "company_name": "Clean Energy Fuels Corp."}
+{"ticker": "XPRO", "company_name": "Expro Group Holdings N.V."}
+{"ticker": "PBF", "company_name": "PBF Energy Inc."}
+{"ticker": "NS", "company_name": "NuStar Energy L.P."}
+{"ticker": "PTEN", "company_name": "Patterson-UTI Energy, Inc."}
+{"ticker": "GPOR", "company_name": "Gulfport Energy Corporation"}
+{"ticker": "TGP", "company_name": "Teekay LNG Partners L.P."}
+{"ticker": "USAC", "company_name": "USA Compression Partners, LP"}
+{"ticker": "GLOG-PA", "company_name": "GasLog Ltd."}
+{"ticker": "NE", "company_name": "Noble Corporation"}
+{"ticker": "FRO", "company_name": "Frontline Ltd."}
+{"ticker": "BPMP", "company_name": "BP Midstream Partners LP"}
+{"ticker": "GEL", "company_name": "Genesis Energy, L.P."}
+{"ticker": "ARLP", "company_name": "Alliance Resource Partners, L.P."}
+{"ticker": "BTU", "company_name": "Peabody Energy Corporation"}
+{"ticker": "GLNG", "company_name": "Golar LNG Limited"}
+{"ticker": "DK", "company_name": "Delek US Holdings, Inc."}
+{"ticker": "CLMT", "company_name": "Calumet Specialty Products Partners, L.P."}
+{"ticker": "ARCH", "company_name": "Arch Resources, Inc."}
+{"ticker": "FLNG", "company_name": "FLEX LNG Ltd."}
+{"ticker": "AROC", "company_name": "Archrock, Inc."}
+{"ticker": "OII", "company_name": "Oceaneering International, Inc."}
+{"ticker": "GLOP-PB", "company_name": "GasLog Partners LP"}
+{"ticker": "CLB", "company_name": "Core Laboratories N.V."}
+{"ticker": "OMP", "company_name": "Oasis Midstream Partners LP"}
+{"ticker": "GLOP-PC", "company_name": "GasLog Partners LP"}
+{"ticker": "LPI", "company_name": "Laredo Petroleum, Inc."}
+{"ticker": "NGL-PB", "company_name": "NGL Energy Partners LP"}
+{"ticker": "NGL-PC", "company_name": "NGL Energy Partners LP"}
+{"ticker": "MNRL", "company_name": "Brigham Minerals, Inc."}
+{"ticker": "DNOW", "company_name": "NOW Inc."}
+{"ticker": "ESTE", "company_name": "Earthstone Energy, Inc."}
+{"ticker": "DHT", "company_name": "DHT Holdings, Inc."}
+{"ticker": "KRP", "company_name": "Kimbell Royalty Partners, LP"}
+{"ticker": "PUMP", "company_name": "ProPetro Holding Corp."}
+{"ticker": "VTOL", "company_name": "Bristow Group Inc."}
+{"ticker": "HESM", "company_name": "Hess Midstream LP"}
+{"ticker": "TALO", "company_name": "Talos Energy Inc."}
+{"ticker": "PARR", "company_name": "Par Pacific Holdings, Inc."}
+{"ticker": "CEIX", "company_name": "CONSOL Energy Inc."}
+{"ticker": "GLP", "company_name": "Global Partners LP"}
+{"ticker": "CAPL", "company_name": "CrossAmerica Partners LP"}
+{"ticker": "STNG", "company_name": "Scorpio Tankers Inc."}
+{"ticker": "SLCA", "company_name": "U.S. Silica Holdings, Inc."}
+{"ticker": "PBFX", "company_name": "PBF Logistics LP"}
+{"ticker": "GPRK", "company_name": "GeoPark Limited"}
+{"ticker": "NVGS", "company_name": "Navigator Holdings Ltd."}
+{"ticker": "BOOM", "company_name": "DMC Global Inc."}
+{"ticker": "DRQ", "company_name": "Dril-Quip, Inc."}
+{"ticker": "NBR", "company_name": "Nabors Industries Ltd."}
+{"ticker": "BRY", "company_name": "Berry Corporation"}
+{"ticker": "WTTR", "company_name": "Select Energy Services, Inc."}
+{"ticker": "DMLP", "company_name": "Dorchester Minerals, L.P."}
+{"ticker": "SBR", "company_name": "Sabine Royalty Trust"}
+{"ticker": "TRMD", "company_name": "TORM plc"}
+{"ticker": "MRC", "company_name": "MRC Global Inc."}
+{"ticker": "REX", "company_name": "REX American Resources Corporation"}
+{"ticker": "ROCC", "company_name": "Ranger Oil Corporation"}
+{"ticker": "LPG", "company_name": "Dorian LPG Ltd."}
+{"ticker": "VIST", "company_name": "Vista Oil & Gas, S.A.B. de C.V."}
+{"ticker": "TDW", "company_name": "Tidewater Inc."}
+{"ticker": "RTLR", "company_name": "Rattler Midstream LP"}
+{"ticker": "PDS", "company_name": "Precision Drilling Corporation"}
+{"ticker": "PBT", "company_name": "Permian Basin Royalty Trust"}
+{"ticker": "SGU", "company_name": "Star Group, L.P."}
+{"ticker": "NOA", "company_name": "North American Construction Group Ltd."}
+{"ticker": "NRP", "company_name": "Natural Resource Partners L.P."}
+{"ticker": "SD", "company_name": "SandRidge Energy, Inc."}
+{"ticker": "SBOW", "company_name": "SilverBow Resources, Inc."}
+{"ticker": "TNK", "company_name": "Teekay Tankers Ltd."}
+{"ticker": "SRLP", "company_name": "Sprague Resources LP"}
+{"ticker": "OIS", "company_name": "Oil States International, Inc."}
+{"ticker": "TNP-PD", "company_name": "Tsakos Energy Navigation Limited"}
+{"ticker": "TNP-PE", "company_name": "Tsakos Energy Navigation Limited"}
+{"ticker": "SJT", "company_name": "San Juan Basin Royalty Trust"}
+{"ticker": "TNP-PF", "company_name": "Tsakos Energy Navigation Limited"}
+{"ticker": "RNGR", "company_name": "Ranger Energy Services, Inc."}
+{"ticker": "SMLP", "company_name": "Summit Midstream Partners, LP"}
+{"ticker": "SOI", "company_name": "Solaris Oilfield Infrastructure, Inc."}
+{"ticker": "NC", "company_name": "NACCO Industries, Inc."}
+{"ticker": "TNP", "company_name": "Tsakos Energy Navigation Limited"}
+{"ticker": "NGS", "company_name": "Natural Gas Services Group, Inc."}
+{"ticker": "GEOS", "company_name": "Geospace Technologies Corporation"}
+{"ticker": "FET", "company_name": "Forum Energy Technologies, Inc."}
+{"ticker": "MVO", "company_name": "MV Oil Trust"}
+{"ticker": "PRT", "company_name": "PermRock Royalty Trust"}
+{"ticker": "NRT", "company_name": "North European Oil Royalty Trust"}
+{"ticker": "DLNG-PB", "company_name": "Dynagas LNG Partners LP"}
+{"ticker": "CRT", "company_name": "Cross Timbers Royalty Trust"}
+{"ticker": "MTR", "company_name": "Mesa Royalty Trust"}
+{"ticker": "NS-PC", "company_name": "NuStar Energy L.P. 9.00% CUM PFD C"}
+{"ticker": "DCP-PB", "company_name": "DCP Midstream, LP 7.875 CUM RED B"}
+{"ticker": "TGP-PA", "company_name": "Teekay LNG Partners L.P. PFD UNIT SER A"}
+{"ticker": "EP-PC", "company_name": "El Paso Energy Capital Trust I PFD CV TR SECS"}
+{"ticker": "HMLP-PA", "company_name": "H\u00f6egh LNG Partners LP"}
+{"ticker": "GLOP-PA", "company_name": "GasLog Partners LP"}
+{"ticker": "CIVI", "company_name": "Civitas Resources, Inc."}
+{"ticker": "CEQP-P", "company_name": "Crestwood Equity Partners LP"}
